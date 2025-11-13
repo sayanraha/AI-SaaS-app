@@ -127,7 +127,7 @@ Built with the PERN stack (PostgreSQL, Express, React, Node.js) and integrated w
 
 1. Clone the repository:
 ```console
-git clone https://github.com/sayanraha77/QuickAI-Full-Stack.git
+git clone https://github.com/sayanraha/AI-SaaS-app.git
 cd QuickAI-Full-Stack
 ```
 
@@ -283,6 +283,7 @@ For support, email _sayan.raha.dev77@gmail.com_ or create an issue in the GitHub
 [⬆ Back to Top](#table-of-contents)
 
 </div>
+
 
 
 
